@@ -3,7 +3,7 @@ using Newtonsoft.Json;
 using System.Collections.Concurrent;
 using System.Data;
 using WS_Haimdall.Model_Class;
-//
+
 namespace WS_ConnectorHost
 {
     public class Worker : BackgroundService
