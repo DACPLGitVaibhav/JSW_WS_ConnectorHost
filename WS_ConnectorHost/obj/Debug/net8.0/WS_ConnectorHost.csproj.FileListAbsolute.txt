@@ -48,6 +48,9 @@ D:\Gandhar_Project\JSW\Project\WS_ConnectorHost\WS_ConnectorHost\WS_ConnectorHos
 D:\Gandhar_Project\JSW\Project\WS_ConnectorHost\WS_ConnectorHost\WS_ConnectorHost\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\Gandhar_Project\JSW\Project\WS_ConnectorHost\WS_ConnectorHost\WS_ConnectorHost\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 D:\Gandhar_Project\JSW\Project\WS_ConnectorHost\WS_ConnectorHost\WS_ConnectorHost\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Gandhar_Project\JSW\Project\WS_ConnectorHost\WS_ConnectorHost\WS_ConnectorHost\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Gandhar_Project\JSW\Project\WS_ConnectorHost\WS_ConnectorHost\WS_ConnectorHost\bin\Debug\net8.0\Serilog.dll
+D:\Gandhar_Project\JSW\Project\WS_ConnectorHost\WS_ConnectorHost\WS_ConnectorHost\bin\Debug\net8.0\Serilog.Sinks.Console.dll
 D:\Gandhar_Project\JSW\Project\WS_ConnectorHost\WS_ConnectorHost\WS_ConnectorHost\bin\Debug\net8.0\System.ClientModel.dll
 D:\Gandhar_Project\JSW\Project\WS_ConnectorHost\WS_ConnectorHost\WS_ConnectorHost\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
 D:\Gandhar_Project\JSW\Project\WS_ConnectorHost\WS_ConnectorHost\WS_ConnectorHost\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
@@ -83,12 +86,10 @@ D:\Gandhar_Project\JSW\Project\WS_ConnectorHost\WS_ConnectorHost\WS_ConnectorHos
 D:\Gandhar_Project\JSW\Project\WS_ConnectorHost\WS_ConnectorHost\WS_ConnectorHost\obj\Debug\net8.0\WS_ConnectorHost.AssemblyInfoInputs.cache
 D:\Gandhar_Project\JSW\Project\WS_ConnectorHost\WS_ConnectorHost\WS_ConnectorHost\obj\Debug\net8.0\WS_ConnectorHost.AssemblyInfo.cs
 D:\Gandhar_Project\JSW\Project\WS_ConnectorHost\WS_ConnectorHost\WS_ConnectorHost\obj\Debug\net8.0\WS_ConnectorHost.csproj.CoreCompileInputs.cache
+D:\Gandhar_Project\JSW\Project\WS_ConnectorHost\WS_ConnectorHost\WS_ConnectorHost\obj\Debug\net8.0\WS_ConnectorHost.sourcelink.json
 D:\Gandhar_Project\JSW\Project\WS_ConnectorHost\WS_ConnectorHost\WS_ConnectorHost\obj\Debug\net8.0\WS_Conne.833A81DB.Up2Date
 D:\Gandhar_Project\JSW\Project\WS_ConnectorHost\WS_ConnectorHost\WS_ConnectorHost\obj\Debug\net8.0\WS_ConnectorHost.dll
 D:\Gandhar_Project\JSW\Project\WS_ConnectorHost\WS_ConnectorHost\WS_ConnectorHost\obj\Debug\net8.0\refint\WS_ConnectorHost.dll
 D:\Gandhar_Project\JSW\Project\WS_ConnectorHost\WS_ConnectorHost\WS_ConnectorHost\obj\Debug\net8.0\WS_ConnectorHost.pdb
 D:\Gandhar_Project\JSW\Project\WS_ConnectorHost\WS_ConnectorHost\WS_ConnectorHost\obj\Debug\net8.0\WS_ConnectorHost.genruntimeconfig.cache
 D:\Gandhar_Project\JSW\Project\WS_ConnectorHost\WS_ConnectorHost\WS_ConnectorHost\obj\Debug\net8.0\ref\WS_ConnectorHost.dll
-D:\Gandhar_Project\JSW\Project\WS_ConnectorHost\WS_ConnectorHost\WS_ConnectorHost\bin\Debug\net8.0\Serilog.dll
-D:\Gandhar_Project\JSW\Project\WS_ConnectorHost\WS_ConnectorHost\WS_ConnectorHost\bin\Debug\net8.0\Serilog.Sinks.Console.dll
-D:\Gandhar_Project\JSW\Project\WS_ConnectorHost\WS_ConnectorHost\WS_ConnectorHost\bin\Debug\net8.0\Newtonsoft.Json.dll

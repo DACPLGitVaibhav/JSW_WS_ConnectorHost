@@ -23,9 +23,10 @@ namespace WS_ConnectorHost
         {
           
             await ConnectorHostLogs("Success: Service Started.");
-            //_timer = new PeriodicTimer(TimeSpan.FromSeconds(5));
-            //while (await _timer.WaitForNextTickAsync(stoppingToken))
-            //{
+            _timer = new PeriodicTimer(TimeSpan.FromSeconds(60));
+            while (await _timer.WaitForNextTickAsync(stoppingToken))
+            {
+                
                 try
                 {
                     string[] IPMStextFIle = Directory.GetFiles(_settings.filepath, "*.txt");
@@ -93,7 +94,7 @@ namespace WS_ConnectorHost
                 {
                     await ConnectorHostLogs(ex.ToString());
                 }
-            //}            
+            }
         }
 
         private string ConvertDataTableToJson(DataTable dt)
